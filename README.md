@@ -1,9 +1,10 @@
-# nosql-challenge
+# Exploring a Food Database with MongoDB
+#### Skills Used: NoSQL database, MongoDB, JSON, Pandas
 
 # Overview
-In this challenge, we created and analyzed a MongoDB database to learn information about various establishments in the UK for a food magazine. We:
-- Created a database in MongoDB from a json file.
-- Updated the database to include a new restaurant.
+We created and analyzed a MongoDB database to learn information about various establishments in the UK for a food magazine. We:
+- Created a database in MongoDB from a JSON file using mongoimport.
+- Updated the database to include a new restaurant with insert_one function.
 - Cleaned the data in certain fields.
 - Deleted data that was not relevant to the magazine.
 
